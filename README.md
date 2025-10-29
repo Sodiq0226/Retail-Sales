@@ -15,4 +15,9 @@ The goal of this project is to demonstrate the end-to-end process of analyzing r
 ## Technologies Used
 - SQL (PostgreSQL / MySQL / SQL Server)  
 - Power BI Desktop  
-- CSV / Excel files as source data 
+- CSV / Excel files as source data
+
+  ## Visuals
+  <img width="834" height="590" alt="Screenshot 2025-10-29 223510" src="https://github.com/user-attachments/assets/289b53d0-da90-4dfe-9a53-8c9079a40e45" />
+
+  
