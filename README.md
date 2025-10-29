@@ -17,7 +17,13 @@ The goal of this project is to demonstrate the end-to-end process of analyzing r
 - Power BI Desktop  
 - CSV / Excel files as source data
 
-  ## Visuals
+  ## Sql Queries
   <img width="834" height="590" alt="Screenshot 2025-10-29 223510" src="https://github.com/user-attachments/assets/289b53d0-da90-4dfe-9a53-8c9079a40e45" />
+  <img width="817" height="416" alt="Screenshot 2025-10-29 223635" src="https://github.com/user-attachments/assets/e9480845-0951-47fb-b626-7661c1161301" />
+
+  ## Visualization
+  <img width="1190" height="622" alt="Screenshot 2025-10-29 223422" src="https://github.com/user-attachments/assets/6c60b122-363b-40c7-9632-a093ece180cc" />
+
+
 
   
